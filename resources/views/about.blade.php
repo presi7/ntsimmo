@@ -42,19 +42,19 @@
             </div>
             <div class="order-1 lg:order-2">
                 <div class="relative">
-                    <div class="bg-gradient-to-br from-nts-blue to-nts-cyan rounded-2xl p-8 shadow-2xl">
-                        <div class="bg-white bg-opacity-20 rounded-xl p-6 text-white text-center">
+                    <div class="bg-white bg-opacity-90 rounded-2xl p-8 shadow-2xl">
+                        <div class="bg-white rounded-xl p-6 text-nts-blue-dark text-center">
                             <div class="text-4xl font-bold mb-2">500+</div>
-                            <div class="text-sm opacity-90">Clients satisfaits</div>
+                            <div class="text-sm">Clients satisfaits</div>
                         </div>
                         <div class="grid grid-cols-2 gap-4 mt-6">
-                            <div class="bg-white bg-opacity-15 rounded-lg p-4 text-white text-center">
+                            <div class="bg-white rounded-lg p-4 text-nts-blue-dark text-center">
                                 <div class="text-2xl font-bold">100+</div>
-                                <div class="text-xs opacity-90">Propriétés vendues</div>
+                                <div class="text-xs">Propriétés vendues</div>
                             </div>
-                            <div class="bg-white bg-opacity-15 rounded-lg p-4 text-white text-center">
+                            <div class="bg-white rounded-lg p-4 text-nts-blue-dark text-center">
                                 <div class="text-2xl font-bold">5 ans</div>
-                                <div class="text-xs opacity-90">D'expérience</div>
+                                <div class="text-xs">D'expérience</div>
                             </div>
                         </div>
                     </div>
