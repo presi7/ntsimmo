@@ -12,7 +12,7 @@ class Artisan extends Model
     protected $fillable = [
         'user_id',
         'specialties',
-        'phone',
+        // 'phone',
         'address',
         'image_realisations',
         'video_realisations',

@@ -38,7 +38,7 @@ class ArtisanController extends Controller
     {
         $data = $request->validate([
             'specialties' => 'required|string',
-            'phone' => 'required|string',
+            // 'phone' => 'required|string',
             'address' => 'required|string',
             'prenom' => 'required|string',
             'nom' => 'required|string',
@@ -95,7 +95,7 @@ class ArtisanController extends Controller
     {
         $data = $request->validate([
             'specialties' => 'required|string',
-            'phone' => 'required|string',
+            // 'phone' => 'required|string',
             'address' => 'required|string',
             'prenom' => 'required|string',
             'nom' => 'required|string',

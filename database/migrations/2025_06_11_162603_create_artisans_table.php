@@ -18,7 +18,7 @@ return new class extends Migration
                   ->onDelete('cascade');
             $table->json('specialties')  // Tableau de spécialités
                   ->nullable();
-            $table->string('phone')->nullable();
+            // $table->string('phone')->nullable();
             $table->string('address')->nullable();
             $table->timestamps();
         });

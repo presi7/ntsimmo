@@ -48,14 +48,14 @@
                                 <p class="mt-1 text-sm text-gray-500">Ex: Plomberie, Électricité, Maçonnerie</p>
                             </div>
 
-                            <div>
+                            <!-- <div>
                                 <label class="block font-medium text-sm text-gray-700 dark:text-gray-300" for="phone">
                                     {{ __('Téléphone') }}
                                 </label>
                                 <input id="phone" name="phone" type="text"
                                        value="{{ old('phone', $artisan->phone) }}"
                                        class="mt-1 block w-full border-gray-300 dark:border-gray-700 rounded-md shadow-sm focus:ring focus:ring-opacity-50">
-                            </div>
+                            </div> -->
 
                             <div>
                                 <label class="block font-medium text-sm text-gray-700 dark:text-gray-300" for="address">

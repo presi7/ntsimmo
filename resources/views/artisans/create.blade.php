@@ -55,13 +55,13 @@
                                    class="mt-1 block w-full border-gray-300 dark:border-gray-700 rounded-md shadow-sm focus:ring">
                         </div>
 
-                        <div>
+                        <!-- <div>
                             <label for="phone" class="block text-sm font-medium text-gray-700 dark:text-gray-300">
                                 {{ __('Téléphone') }}
                             </label>
                             <input type="text" name="phone" id="phone" value="{{ old('phone') }}"
                                    class="mt-1 block w-full border-gray-300 dark:border-gray-700 rounded-md shadow-sm focus:ring">
-                        </div>
+                        </div> -->
 
                         <div>
                             <label for="address" class="block text-sm font-medium text-gray-700 dark:text-gray-300">
